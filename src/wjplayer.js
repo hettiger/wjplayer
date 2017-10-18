@@ -255,9 +255,7 @@ class WJPlayer {
       html5: {
         hlsjsConfig: {}
       },
-      plugins: {
-        replayButton: {}
-      },
+      plugins: {},
       controlBar: {}
     }, this.options.videojs);
 
